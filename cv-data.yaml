@@ -31,13 +31,13 @@ experience:
     company: Boyner A.S
     period: May 2025 to Present
     details:
-      - Insider ile satış datası entegrasyonu.
-      - Boyner Giftcard Redesign kapsamında çalışmalar.
+      - Implemented sales data integration with Insider platform.
+      - Contributed to the Boyner Giftcard Redesign initiative.
       - >
-        Bu süreçlerde aktif olarak Github Copilot kullanımı.
-        Zor işler için Opus 4.5 ve 4.6 modelleri tercih edildi.
-        Süreçler işletilirken çoğunlukla reviewer olarak çalışıldı.
-        Dokümante edilen flowlar ilgili AI agent'ları ile implement edildi.
+        Actively leveraged GitHub Copilot throughout these projects,
+        utilizing Opus 4.5 and 4.6 models for complex tasks.
+        Primarily served as a reviewer during development workflows.
+        Implemented documented flows through dedicated AI agents.
 
   - title: Senior Backend Developer
     company: Borda Technology
