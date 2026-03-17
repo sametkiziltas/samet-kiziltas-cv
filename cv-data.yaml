@@ -1,0 +1,99 @@
+contact:
+  name: Samet Kızıltaş
+  title: Software Developer
+  phone: "+90 531 681 07 06"
+  email: samet-kiziltas@outlook.com
+  location: Istanbul, Turkey
+
+profile: >
+  I'm a software developer with about 7 years of experience in backend
+  development. I have contributed to various projects in collaboration
+  with cross-functional teams. I view challenges as opportunities for
+  growth and strongly believe that prioritizing customer needs is
+  essential for delivering impactful solutions.
+
+knowledge_base:
+  - Microsoft Stack(C#, .NET, EF, Dapper)
+  - Rest, Restful Services
+  - MS-SQL, PostgreSql, Oracle
+  - Microservices, Event Driven Arc.
+  - Monolith, Modular Monolith, CQRS
+  - DDD, TDD, Unit test, Nunit, Moq, Ocelot etc.
+  - Clean Code, Clean Arch.
+  - RabbitMQ, Hangfire, Redis
+  - Identity Server, Oauth2, JWT
+  - Javascript(React)
+  - Agile, Scrum, Jira
+  - Monitoring, Grafana, Prometheus
+
+experience:
+  - title: Senior Backend Developer
+    company: Boyner A.S
+    period: May 2025 to Present
+    details:
+      - Implemented sales data integration with Insider platform.
+      - Contributed to the Boyner Giftcard Redesign initiative.
+      - >
+        Actively leveraged GitHub Copilot throughout these projects,
+        utilizing Opus 4.5 and 4.6 models for complex tasks.
+        Primarily served as a reviewer during development workflows.
+        Implemented documented flows through dedicated AI agents.
+
+  - title: Senior Backend Developer
+    company: Borda Technology
+    period: April 2023 to May 2025
+    description: >
+      Developed a hospital asset management product with using
+      clean arch., microservices with event based communication.
+    details:
+      - Unit testing on every microservices up to %90 coverage.
+      - Refactoring the app microservices to modular-monolith.
+      - >
+        Developing a workflow, actions mechanism to extend user
+        functionality (similar to N8N)
+
+  - title: Senior Backend Developer
+    company: HangiKredi
+    period: November 2021 to April 2023
+    description: >
+      Added features like financial assistance and budget
+      management to the app that compares credit products.
+    details:
+      - >
+        Refactoring the current custom authentication system to
+        Identity Server.
+      - >
+        Added a new gateway using Ocelot, and also a BFF layer
+        added to the app that serves 10+ microservices.
+
+  - title: Backend Developer
+    company: Acıbadem Technology
+    period: November 2020 to November 2021
+    description: >
+      Playing a significant role in the increasing performance of
+      some modules in the app like Stock Counting, and Stock
+      Transaction Management at Material Management Team.
+    details:
+      - Leading the junior developers at learning dotnet & ef core
+      - Helping teammates about understanding DDD & Modular-Monolith arch.
+
+  - title: Full-Stack Developer
+    company: PAK Group
+    period: July 2018 to November 2020
+    description: >
+      Working with co-workers in different departments and helping
+      them digitalize their work developing fast-paced, various
+      applications.
+    details:
+      - Creating an architecture purposed fast-paced development.
+      - Developing a Dynamic Form Builder tool with no code using React.
+
+education:
+  - institution: Uskudar University
+    degree: Master of Computer Engineering (w/o thesis)
+  - institution: Anadolu University
+    degree: MIS
+  - institution: Balıkesir University
+    degree: Computer Programming
+  - institution: Tuzla Technical High School
+    degree: Computer Programming
