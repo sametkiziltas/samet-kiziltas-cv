@@ -27,7 +27,7 @@ function onScroll() {
 window.addEventListener('scroll', onScroll, { passive: true });
 
 // ── CV Viewer modal ──────────────────────────────────────────────
-const CV_PATH = 'SAMET-KIZILTAS-CV-2026.pdf';
+const CV_PATH = 'SAMET-KIZILTAS-CV-2026.pdf'; // update filename when CV is regenerated
 
 function openCVViewer() {
   const modal = document.getElementById('cvModal');
